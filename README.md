@@ -1,4 +1,4 @@
-# DESAFIO DEVOPS HACKATHON
+# Anagram CC
 
 **Linguagem =>** Python
 **Versão =>** 2.7.17
